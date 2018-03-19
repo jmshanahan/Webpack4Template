@@ -5,5 +5,5 @@ I needed to create a Webpack 4 template file from the ground up so I could under
 It is basic but it does have hot loading.
 
 
-### Acknowledgment
+### Acknowledgement
 https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
